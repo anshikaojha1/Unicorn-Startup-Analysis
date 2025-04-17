@@ -1,7 +1,11 @@
 # Unicorn-Startup-Analysis
 
 
-UnicornScope is a data-driven project exploring the trends, geography, investors, and valuation patterns of unicorn startups (privately held companies valued at over $1B). This project answers key questions about the global unicorn landscape using real-world data.
+The global startup ecosystem has witnessed a dramatic rise in the number of unicorns—privately held startups with a valuation of over $1 billion. These companies represent innovation, market disruption, and significant investor interest across industries and countries.
+
+This project titled "Unicorn Startup Analysis" aims to dive deep into the unicorn landscape through data analysis and visual storytelling. Using a curated dataset of unicorn companies, we explore patterns, trends, and insights that define the growth of these billion-dollar startups.
+
+
 
 ---
 
